@@ -5,7 +5,7 @@ IOS多选折叠树（使用RATreeView实现）
     
     RATreeView地址：[https://github.com/Augustyniak/RATreeView][1]
     
-    截图：   
+    效果图如下：   
 
     ![Alt text](/Screens/animation.gif)
 [1]: https://github.com/Augustyniak/RATreeView
