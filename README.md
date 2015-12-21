@@ -8,4 +8,4 @@ IOS多选折叠树（使用RATreeView实现）
     截图：   
 
     ![Alt text](/Screens/animation.gif)
-    [1]: https://github.com/Augustyniak/RATreeView
+[1]: https://github.com/Augustyniak/RATreeView
